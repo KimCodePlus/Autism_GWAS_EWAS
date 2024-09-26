@@ -2,7 +2,7 @@
 title: "Autism GWAS and EWAS"
 author: "Alan Kim"
 format: html
-editor: visual
+editor: source
 ---
 
 ## Setup
