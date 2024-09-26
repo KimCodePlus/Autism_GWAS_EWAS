@@ -8,12 +8,15 @@ editor: visual
 ## Setup
 
 ### Load Libraries
+
 ```{r}
 library(tidyverse)
 library(readxl)
+library(ggpubr)
 ```
+
 ### Load Data
+
 ```{r}
 
 ```
-
